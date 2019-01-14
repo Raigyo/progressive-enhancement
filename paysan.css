@@ -64,7 +64,8 @@ article{
   background-color: #d3d3d3;
 }
 ul#bulletIntro{
-  list-style-image: url("https://mdn.mozillademos.org/files/11979/starsolid.gif");
+/*  list-style-image: url("https://mdn.mozillademos.org/files/11979/starsolid.gif");*/
+  list-style-image: url("bullet.png");
   list-style-position: inside;
 }
 
