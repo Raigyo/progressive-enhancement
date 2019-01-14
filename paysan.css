@@ -8,6 +8,9 @@ header{
   background-image: url("background-image.jpg");
   background-repeat: no-repeat;
   background-size:100% 100%;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
 }
 h1{
   font-size: 45px;
