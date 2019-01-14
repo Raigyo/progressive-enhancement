@@ -63,6 +63,15 @@ article{
   padding: 25px;
   background-color: #d3d3d3;
 }
+ul#bulletIntro{
+  list-style-image: url("https://mdn.mozillademos.org/files/11979/starsolid.gif");
+  list-style-position: inside;
+}
+
+/*ul#bulletIntro li{
+  padding-bottom: 10px;
+}*/
+
 p{
 	font-size: 16px;
 	font-family: Arial, sans-serif;
@@ -124,4 +133,12 @@ section{
 }
 section table{
   margin: auto;
+}
+section#resume{
+  padding-bottom: 20px;
+
+}
+section#conclusion{
+  padding: 10px;
+  background-color: #ffab99;
 }
