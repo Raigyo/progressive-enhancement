@@ -128,18 +128,18 @@ thead tr{
 tr:nth-child(2n+2) {
   background-color: #add8e6;
 }
-section{
+article{
   clear:both;
   padding-top: 20px;
 }
-section table{
+article table{
   margin: auto;
 }
-section#resume{
+article#resume{
   padding-bottom: 20px;
 
 }
-section#conclusion{
+article#conclusion{
   padding: 10px;
   background-color: #ffab99;
 }
