@@ -1,8 +1,10 @@
 # Becode
 HTML: Progressive Enhancement.
-<p>20190111</p>
-<p>20190114</p>
-<p>20190115</p>
+20190111
+
+20190114
+
+20190115
 
 Aim of the exercice:
 - [x] Learning HTML 5 and semantic web
