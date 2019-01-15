@@ -13,7 +13,6 @@ header{
   border-radius: 50px 50px 0px 0px;
 }
 nav {
-    /*padding: 20px 0;*/
     min-width: 500px;
     background-color: #ADD8E6;
     text-align: center;
@@ -32,10 +31,9 @@ nav ul li a {
     text-decoration: none;
     display: block;
  }
-/*article{
-  padding: 25px;
-  background-color: #d3d3d3;
-}*/
+ul {
+   list-style-position: outside;
+}
 section{
     background-color: #87CEEB;
     padding-top: 0px;
@@ -60,8 +58,15 @@ article#conclusion{
   background-size:100% 100%;
   text-align: center;
   padding: 10px;
-  /*background-color: #00BFFF;*/
+  -webkit-border-radius: 0px 0px 50px 50px;
+  -moz-border-radius: 0px 0px 50px 50px;
   border-radius: 0px 0px 50px 50px;
+}
+article#conclusion p {
+  font-size: 20px;
+}
+footer {
+  text-align: right;
 }
 h1{
   font-size: 45px;
@@ -69,7 +74,7 @@ h1{
   padding-top: 20px;
 }
 h2 {
-font-size: 20px;
+font-size: 25px;
 }
 p{
 	font-size: 16px;
@@ -88,7 +93,6 @@ img{
 }
 table {
     width: 100%;
-    font-size: 16px;
 }
 table, th, td {
     align: center;
@@ -97,14 +101,11 @@ table, th, td {
     border-collapse: collapse;
     text-align: center;
     table-layout: fixed;
-    font-size: 16pt;
+    font-size: 16px;
 }
 caption{
   text-align: center;
   font-weight: bold;
-}
-ul  {
-  list-style-position: outside;
 }
 hr {
   border: 5px solid grey;
