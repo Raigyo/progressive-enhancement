@@ -1,12 +1,11 @@
-# Becode
-HTML: Progressive Enhancement.
+# Becode - HTML: Progressive Enhancement
 
+![Becode logo](https://raw.githubusercontent.com/Raigyo/react-character-manager/master/img/becode-logo.png)
 
-20190111
+*January 2019*
 
-20190114
-
-20190115
+> 🔨  Semantic HTML page
+* * *
 
 Aim of the exercice:
 - [x] Learning HTML 5 and semantic web
